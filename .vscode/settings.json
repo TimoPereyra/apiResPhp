@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d9943c8d-f971-468c-90cc-590241334f1a/AppServices/subscriptions/d9943c8d-f971-468c-90cc-590241334f1a/resourceGroups/apuesto/providers/Microsoft.Web/sites/apiapuestobc",
+    "appService.deploySubpath": "."
+}
